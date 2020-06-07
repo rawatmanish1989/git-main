@@ -1,0 +1,11 @@
+git status --> To know the status of repository
+git init --> To initialize the repository
+git config --global user.name "Let's Kode It"
+git config --global user.email letskodeit@gmail.com
+git config user.name "Let's Kode It"
+git config user.email letskodeit@gmail
+git add <fileName>
+git commit -m "" --> Provide the comments inside the double quotes for commitment
+git log
+Git diff <fileName>
+git clone https://github.com/rawatmanish1989/git-selenium.git
